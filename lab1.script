@@ -1,0 +1,13 @@
+Script started on 2015年03月10日 (週二) 17時29分37秒
+]0;F74032146@2015cpp: ~F74032146@2015cpp:~$ whoami; pwd
+F74032146
+/home/F74032146
+]0;F74032146@2015cpp: ~F74032146@2015cpp:~$ git config -l
+user.name=linpaul2004
+user.email=linpaul2004@gmail.com
+]0;F74032146@2015cpp: ~F74032146@2015cpp:~$ git clone https://github.com/linpaul2004/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74032146@2015cpp: ~F74032146@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 17時34分05秒
